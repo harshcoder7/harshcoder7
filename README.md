@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/gKShvby.jpeg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Building with magical coding powers 🪄</h3>
 <img align="right" alt="coding" width="350"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem40ajF5bmVxcTBqZzl2aTZlaWJ0eXQ3NWc0dDFsNm14bWVvaG80biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriOdiQDLHsNVHBAs/giphy.gif">
